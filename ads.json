@@ -1,0 +1,42 @@
+{
+  "android": {
+    "platform": "android",
+    "package_name": "",
+    "app_version": "1",
+    "is_ad_show": true,
+    "admob_appid": "ca-app-pub-8194996278515799~4195892421",
+    "admob_bannerid": "ca-app-pub-8194996278515799/1521627627",
+    "admob_interid": "ca-app-pub-8194996278515799/8691840517",
+    "admob_appopenid": "ca-app-pub-8194996278515799/5252989072",
+    "admob_nativeid": "ca-app-pub-8194996278515799/2486358965",
+    "admob_rewardInter": "ca-app-pub-8194996278515799/7878286444",
+    "inter_count": "2",
+    "ad_splash": "1",
+    "ad_inter": "1",
+    "ad_appopen": "1",
+    "ad_native": "1",
+    "ad_banner": "1",
+    "ad_rewardInter": "1",
+    "privacy_url": ""
+  },
+  "ios": {
+    "platform": "ios",
+    "package_name": "",
+    "app_version": "1",
+    "is_ad_show": true,
+    "admob_appid": "ca-app-pub-8194996278515799~4195892421",
+    "admob_interid": "ca-app-pub-8194996278515799/8691840517",
+    "admob_bannerid": "ca-app-pub-8194996278515799/1521627627",
+    "admob_nativeid": "ca-app-pub-8194996278515799/2486358965",
+    "admob_appopenid": "ca-app-pub-8194996278515799/5252989072",
+    "admob_rewardInter": "ca-app-pub-8194996278515799/7878286444",
+    "inter_count": "2",
+    "ad_splash": "1",
+    "ad_inter": "1",
+    "ad_appopen": "1",
+    "ad_native": "1",
+    "ad_banner": "1",
+    "ad_rewardInter": "1",
+    "privacy_url": ""
+  }
+}
